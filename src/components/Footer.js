@@ -26,6 +26,7 @@ function Footer() {
 				value={inputValue}
 				onBlur={handleBlur}
 			/>
+			<button>Envoyer</button>
 		</footer>
 	)
 }
